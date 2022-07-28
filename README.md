@@ -1,2 +1,1 @@
-# technical-demos
-Hedgehog Dev Technical Demos
+# Hedgehog Dev Technical Demos
